@@ -1,9 +1,9 @@
 <template>  
   <nav class="sticky top-0 z-10 backdrop-blur-md bg-white/70 dark:bg-slate-900/70 border-b border-slate-200 dark:border-slate-700">
     <div class="container mx-auto px-4 py-4 flex justify-between items-center">
-      <div class="font-bold text-xl">
+      <!--div class="font-bold text-xl">
         <span class="text-emerald-600 dark:text-emerald-400">Portfolio - Manuel Höhn</span>
-      </div>
+      </div-->
       <div class="flex items-center gap-6">
         <Link href="#about" class="hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">Über mich</Link>
         <Link href="#skills" class="hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">Skills</Link>
