@@ -213,7 +213,7 @@
               </div>
             </div>
             
-            <div>
+            <!--div>
               <h3 class="text-xl font-semibold mb-4">Nachricht verfassen</h3>
               <form class="space-y-4">
                 <div>
@@ -232,7 +232,7 @@
                   Nachricht senden
                 </button>
               </form>
-            </div>
+            </div-->
           </div>
         </div>
       </div>
